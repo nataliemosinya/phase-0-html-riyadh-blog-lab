@@ -4,7 +4,7 @@ HEADING
 
 SUB HEAD
 
-`Where A Traditional Past Meets A Modern Future.`
+  
 
 IMAGE 1 FILE
 
@@ -62,4 +62,4 @@ LINK 1
 LINK 2
 
 `Wikipedia`
-`http://en.wikipedia.org/wiki/Riyadh`
+
